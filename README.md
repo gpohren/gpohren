@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Gustavo. 👋
+---
 
-<!--
-**gpohren/gpohren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm trying to become a DevOps.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
+<a href="mailto:gustavophn@ymail.com"><img src='https://img.icons8.com/color/48/000000/secured-letter--v1.png' alt='email' height='40'></a>
+</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
+<a href=https://www.linkedin.com/in/gpohren/><img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'></a>
+</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
+<a href=https://github.com/gpohren><img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'></a>    
+</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
