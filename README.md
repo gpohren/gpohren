@@ -3,10 +3,6 @@
 
 I'm trying to become a DevOps.
 
-</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
-<a href="mailto:gustavophn@ymail.com"><img src='https://img.icons8.com/color/48/000000/secured-letter--v1.png' alt='email' height='40'></a>
-</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
-<a href=https://www.linkedin.com/in/gpohren/><img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'></a>
-</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
-<a href=https://github.com/gpohren><img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'></a>    
-</a>&nbsp;&nbsp;</a>&nbsp;&nbsp;
+&nbsp;[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/gpohren)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpohren)
+[![E-mail Badge](https://img.shields.io/badge/Yahoo!-6001D2?style=flat-square&logo=yahoo!&logoColor=white)](mailto:gustavophn@ymail.com)
